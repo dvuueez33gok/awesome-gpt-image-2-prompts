@@ -1,4 +1,4 @@
-<a href="https://apimart.ai/model/gpt-image-2"><img src="public/images/banner.jpg" alt="GPT Image 2 prompts" width="100%" /></a>
+<a href="https://apimart.ai/model/gpt-image-2"><img src="banner.jpg" alt="GPT Image 2 prompts" width="100%" /></a>
 
 # Awesome GPT Image 2 Prompts
 
@@ -58,7 +58,7 @@ editorial studio portrait, volumetric fog with rim light, 100mm macro, commercia
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-001.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-001.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -81,7 +81,7 @@ candid street portrait, soft window light, 85mm lens, shallow depth of field, 1:
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-002.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-002.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -104,7 +104,7 @@ corporate headshot, hard directional key light with subtle fill, isometric 3D re
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-003.jpg" width="600" alt="Corporate Headshot - image 1"></div>
+<div align="center"><img src="gpt-image-2-003.jpg" width="600" alt="Corporate Headshot - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -127,7 +127,7 @@ artistic double exposure portrait, golden hour backlight, top-down flat lay, 4:5
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-004.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-004.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -150,7 +150,7 @@ cinematic close-up, moody low-key lighting, wide angle, architectural compositio
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-005.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
+<div align="center"><img src="gpt-image-2-005.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -173,7 +173,7 @@ editorial studio portrait, even diffused studio light, film grain, analog color 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-006.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-006.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -196,7 +196,7 @@ candid street portrait, volumetric fog with rim light, isometric 3D render look,
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-007.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-007.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -219,7 +219,7 @@ corporate headshot, soft window light, wide angle, architectural composition, 1:
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-008.jpg" width="600" alt="Corporate Headshot - image 1"></div>
+<div align="center"><img src="gpt-image-2-008.jpg" width="600" alt="Corporate Headshot - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -242,7 +242,7 @@ artistic double exposure portrait, hard directional key light with subtle fill, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-009.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-009.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -265,7 +265,7 @@ cinematic close-up, golden hour backlight, 85mm lens, shallow depth of field, 4:
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-010.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
+<div align="center"><img src="gpt-image-2-010.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -288,7 +288,7 @@ editorial studio portrait, moody low-key lighting, top-down flat lay, 2:3 compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-011.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-011.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -311,7 +311,7 @@ candid street portrait, even diffused studio light, wide angle, architectural co
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-012.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-012.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -334,7 +334,7 @@ corporate headshot, volumetric fog with rim light, 85mm lens, shallow depth of f
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-013.jpg" width="600" alt="Corporate Headshot - image 1"></div>
+<div align="center"><img src="gpt-image-2-013.jpg" width="600" alt="Corporate Headshot - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -357,7 +357,7 @@ artistic double exposure portrait, soft window light, film grain, analog color s
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-014.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-014.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -380,7 +380,7 @@ cinematic close-up, hard directional key light with subtle fill, isometric 3D re
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-015.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
+<div align="center"><img src="gpt-image-2-015.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -403,7 +403,7 @@ editorial studio portrait, golden hour backlight, 100mm macro, commercial produc
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-016.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-016.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -426,7 +426,7 @@ candid street portrait, moody low-key lighting, 85mm lens, shallow depth of fiel
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-017.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-017.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -449,7 +449,7 @@ corporate headshot, even diffused studio light, isometric 3D render look, 16:9 c
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-018.jpg" width="600" alt="Corporate Headshot - image 1"></div>
+<div align="center"><img src="gpt-image-2-018.jpg" width="600" alt="Corporate Headshot - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -472,7 +472,7 @@ artistic double exposure portrait, volumetric fog with rim light, top-down flat 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-019.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-019.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -495,7 +495,7 @@ cinematic close-up, soft window light, wide angle, architectural composition, 1:
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-020.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
+<div align="center"><img src="gpt-image-2-020.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -518,7 +518,7 @@ editorial studio portrait, hard directional key light with subtle fill, film gra
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-021.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-021.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -541,7 +541,7 @@ candid street portrait, golden hour backlight, isometric 3D render look, 4:5 com
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-022.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-022.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -564,7 +564,7 @@ corporate headshot, moody low-key lighting, wide angle, architectural compositio
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-023.jpg" width="600" alt="Corporate Headshot - image 1"></div>
+<div align="center"><img src="gpt-image-2-023.jpg" width="600" alt="Corporate Headshot - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -587,7 +587,7 @@ artistic double exposure portrait, even diffused studio light, 100mm macro, comm
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-024.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-024.jpg" width="600" alt="Artistic Double Exposure Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -610,7 +610,7 @@ cinematic close-up, volumetric fog with rim light, 85mm lens, shallow depth of f
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-025.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
+<div align="center"><img src="gpt-image-2-025.jpg" width="600" alt="Cinematic Close-Up - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -633,7 +633,7 @@ editorial studio portrait, soft window light, top-down flat lay, 1:1 composition
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-026.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-026.jpg" width="600" alt="Editorial Studio Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -656,7 +656,7 @@ candid street portrait, hard directional key light with subtle fill, wide angle,
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-027.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
+<div align="center"><img src="gpt-image-2-027.jpg" width="600" alt="Candid Street Portrait - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -679,7 +679,7 @@ corporate headshot, golden hour backlight, 85mm lens, shallow depth of field, 4:
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-028.jpg" width="600" alt="Corporate Headshot - image 1"></div>
+<div align="center"><img src="gpt-image-2-028.jpg" width="600" alt="Corporate Headshot - image 1"></div>
 
 **Details**
 - Category: Portrait & Avatar
@@ -704,7 +704,7 @@ matte ceramic bottle, golden hour backlight, wide angle, architectural compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-029.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
+<div align="center"><img src="gpt-image-2-029.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -727,7 +727,7 @@ floating sneaker, moody low-key lighting, 85mm lens, shallow depth of field, 1:1
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-030.jpg" width="600" alt="Floating Sneaker - image 1"></div>
+<div align="center"><img src="gpt-image-2-030.jpg" width="600" alt="Floating Sneaker - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -750,7 +750,7 @@ glass perfume flacon, even diffused studio light, 85mm lens, shallow depth of fi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-031.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
+<div align="center"><img src="gpt-image-2-031.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -773,7 +773,7 @@ minimal skincare set, volumetric fog with rim light, wide angle, architectural c
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-032.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
+<div align="center"><img src="gpt-image-2-032.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -796,7 +796,7 @@ premium coffee packaging, soft window light, wide angle, architectural compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-033.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
+<div align="center"><img src="gpt-image-2-033.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -819,7 +819,7 @@ matte ceramic bottle, hard directional key light with subtle fill, 85mm lens, sh
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-034.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
+<div align="center"><img src="gpt-image-2-034.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -842,7 +842,7 @@ floating sneaker, golden hour backlight, isometric 3D render look, 4:3 compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-035.jpg" width="600" alt="Floating Sneaker - image 1"></div>
+<div align="center"><img src="gpt-image-2-035.jpg" width="600" alt="Floating Sneaker - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -865,7 +865,7 @@ glass perfume flacon, moody low-key lighting, isometric 3D render look, 1:1 comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-036.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
+<div align="center"><img src="gpt-image-2-036.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -888,7 +888,7 @@ minimal skincare set, even diffused studio light, 85mm lens, shallow depth of fi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-037.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
+<div align="center"><img src="gpt-image-2-037.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -911,7 +911,7 @@ premium coffee packaging, volumetric fog with rim light, 85mm lens, shallow dept
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-038.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
+<div align="center"><img src="gpt-image-2-038.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -934,7 +934,7 @@ matte ceramic bottle, soft window light, isometric 3D render look, 2:3 compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-039.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
+<div align="center"><img src="gpt-image-2-039.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -957,7 +957,7 @@ floating sneaker, hard directional key light with subtle fill, wide angle, archi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-040.jpg" width="600" alt="Floating Sneaker - image 1"></div>
+<div align="center"><img src="gpt-image-2-040.jpg" width="600" alt="Floating Sneaker - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -980,7 +980,7 @@ glass perfume flacon, golden hour backlight, wide angle, architectural compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-041.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
+<div align="center"><img src="gpt-image-2-041.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1003,7 +1003,7 @@ minimal skincare set, moody low-key lighting, isometric 3D render look, 1:1 comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-042.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
+<div align="center"><img src="gpt-image-2-042.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1026,7 +1026,7 @@ premium coffee packaging, even diffused studio light, isometric 3D render look, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-043.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
+<div align="center"><img src="gpt-image-2-043.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1049,7 +1049,7 @@ matte ceramic bottle, volumetric fog with rim light, wide angle, architectural c
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-044.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
+<div align="center"><img src="gpt-image-2-044.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1072,7 +1072,7 @@ floating sneaker, soft window light, 85mm lens, shallow depth of field, 2:3 comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-045.jpg" width="600" alt="Floating Sneaker - image 1"></div>
+<div align="center"><img src="gpt-image-2-045.jpg" width="600" alt="Floating Sneaker - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1095,7 +1095,7 @@ glass perfume flacon, hard directional key light with subtle fill, 85mm lens, sh
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-046.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
+<div align="center"><img src="gpt-image-2-046.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1118,7 +1118,7 @@ minimal skincare set, golden hour backlight, wide angle, architectural compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-047.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
+<div align="center"><img src="gpt-image-2-047.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1141,7 +1141,7 @@ premium coffee packaging, moody low-key lighting, wide angle, architectural comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-048.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
+<div align="center"><img src="gpt-image-2-048.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1164,7 +1164,7 @@ matte ceramic bottle, even diffused studio light, 85mm lens, shallow depth of fi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-049.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
+<div align="center"><img src="gpt-image-2-049.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1187,7 +1187,7 @@ floating sneaker, volumetric fog with rim light, isometric 3D render look, 4:5 c
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-050.jpg" width="600" alt="Floating Sneaker - image 1"></div>
+<div align="center"><img src="gpt-image-2-050.jpg" width="600" alt="Floating Sneaker - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1210,7 +1210,7 @@ glass perfume flacon, soft window light, isometric 3D render look, 2:3 compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-051.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
+<div align="center"><img src="gpt-image-2-051.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1233,7 +1233,7 @@ minimal skincare set, hard directional key light with subtle fill, 85mm lens, sh
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-052.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
+<div align="center"><img src="gpt-image-2-052.jpg" width="600" alt="Minimal Skincare Set - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1256,7 +1256,7 @@ premium coffee packaging, golden hour backlight, 85mm lens, shallow depth of fie
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-053.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
+<div align="center"><img src="gpt-image-2-053.jpg" width="600" alt="Premium Coffee Packaging - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1279,7 +1279,7 @@ matte ceramic bottle, moody low-key lighting, isometric 3D render look, 1:1 comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-054.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
+<div align="center"><img src="gpt-image-2-054.jpg" width="600" alt="Matte Ceramic Bottle - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1302,7 +1302,7 @@ floating sneaker, even diffused studio light, wide angle, architectural composit
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-055.jpg" width="600" alt="Floating Sneaker - image 1"></div>
+<div align="center"><img src="gpt-image-2-055.jpg" width="600" alt="Floating Sneaker - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1325,7 +1325,7 @@ glass perfume flacon, volumetric fog with rim light, wide angle, architectural c
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-056.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
+<div align="center"><img src="gpt-image-2-056.jpg" width="600" alt="Glass Perfume Flacon - image 1"></div>
 
 **Details**
 - Category: Product & E-commerce
@@ -1350,7 +1350,7 @@ swiss-style exhibition poster, hard directional key light with subtle fill, film
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-057.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-057.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1373,7 +1373,7 @@ risograph concert poster, golden hour backlight, wide angle, architectural compo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-058.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-058.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1396,7 +1396,7 @@ bold typographic movie key art, moody low-key lighting, isometric 3D render look
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-059.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
+<div align="center"><img src="gpt-image-2-059.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1419,7 +1419,7 @@ minimal travel poster, even diffused studio light, top-down flat lay, 4:5 compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-060.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-060.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1442,7 +1442,7 @@ vintage book cover, volumetric fog with rim light, wide angle, architectural com
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-061.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
+<div align="center"><img src="gpt-image-2-061.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1465,7 +1465,7 @@ swiss-style exhibition poster, soft window light, top-down flat lay, 16:9 compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-062.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-062.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1488,7 +1488,7 @@ risograph concert poster, hard directional key light with subtle fill, 85mm lens
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-063.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-063.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1511,7 +1511,7 @@ bold typographic movie key art, golden hour backlight, wide angle, architectural
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-064.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
+<div align="center"><img src="gpt-image-2-064.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1534,7 +1534,7 @@ minimal travel poster, moody low-key lighting, 100mm macro, commercial product p
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-065.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-065.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1557,7 +1557,7 @@ vintage book cover, even diffused studio light, 85mm lens, shallow depth of fiel
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-066.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
+<div align="center"><img src="gpt-image-2-066.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1580,7 +1580,7 @@ swiss-style exhibition poster, volumetric fog with rim light, 100mm macro, comme
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-067.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-067.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1603,7 +1603,7 @@ risograph concert poster, soft window light, isometric 3D render look, 16:9 comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-068.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-068.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1626,7 +1626,7 @@ bold typographic movie key art, hard directional key light with subtle fill, 85m
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-069.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
+<div align="center"><img src="gpt-image-2-069.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1649,7 +1649,7 @@ minimal travel poster, golden hour backlight, film grain, analog color science, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-070.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-070.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1672,7 +1672,7 @@ vintage book cover, moody low-key lighting, isometric 3D render look, 3:4 compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-071.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
+<div align="center"><img src="gpt-image-2-071.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1695,7 +1695,7 @@ swiss-style exhibition poster, even diffused studio light, film grain, analog co
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-072.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-072.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1718,7 +1718,7 @@ risograph concert poster, volumetric fog with rim light, wide angle, architectur
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-073.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-073.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1741,7 +1741,7 @@ bold typographic movie key art, soft window light, isometric 3D render look, 16:
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-074.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
+<div align="center"><img src="gpt-image-2-074.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1764,7 +1764,7 @@ minimal travel poster, hard directional key light with subtle fill, top-down fla
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-075.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-075.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1787,7 +1787,7 @@ vintage book cover, golden hour backlight, wide angle, architectural composition
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-076.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
+<div align="center"><img src="gpt-image-2-076.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1810,7 +1810,7 @@ swiss-style exhibition poster, moody low-key lighting, top-down flat lay, 3:4 co
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-077.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-077.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1833,7 +1833,7 @@ risograph concert poster, even diffused studio light, 85mm lens, shallow depth o
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-078.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-078.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1856,7 +1856,7 @@ bold typographic movie key art, volumetric fog with rim light, wide angle, archi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-079.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
+<div align="center"><img src="gpt-image-2-079.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1879,7 +1879,7 @@ minimal travel poster, soft window light, 100mm macro, commercial product photog
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-080.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-080.jpg" width="600" alt="Minimal Travel Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1902,7 +1902,7 @@ vintage book cover, hard directional key light with subtle fill, 85mm lens, shal
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-081.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
+<div align="center"><img src="gpt-image-2-081.jpg" width="600" alt="Vintage Book Cover - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1925,7 +1925,7 @@ swiss-style exhibition poster, golden hour backlight, 100mm macro, commercial pr
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-082.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-082.jpg" width="600" alt="Swiss-Style Exhibition Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1948,7 +1948,7 @@ risograph concert poster, moody low-key lighting, isometric 3D render look, 3:4 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-083.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
+<div align="center"><img src="gpt-image-2-083.jpg" width="600" alt="Risograph Concert Poster - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1971,7 +1971,7 @@ bold typographic movie key art, even diffused studio light, 85mm lens, shallow d
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-084.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
+<div align="center"><img src="gpt-image-2-084.jpg" width="600" alt="Bold Typographic Movie Key Art - image 1"></div>
 
 **Details**
 - Category: Poster & Typography
@@ -1996,7 +1996,7 @@ exploded view of a camera, moody low-key lighting, 100mm macro, commercial produ
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-085.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
+<div align="center"><img src="gpt-image-2-085.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2019,7 +2019,7 @@ three-step recipe card, even diffused studio light, 85mm lens, shallow depth of 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-086.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
+<div align="center"><img src="gpt-image-2-086.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2042,7 +2042,7 @@ timeline infographic, volumetric fog with rim light, 85mm lens, shallow depth of
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-087.jpg" width="600" alt="Timeline Infographic - image 1"></div>
+<div align="center"><img src="gpt-image-2-087.jpg" width="600" alt="Timeline Infographic - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2065,7 +2065,7 @@ scientific cross-section, soft window light, 85mm lens, shallow depth of field, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-088.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
+<div align="center"><img src="gpt-image-2-088.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2088,7 +2088,7 @@ comparison chart with icons, hard directional key light with subtle fill, film g
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-089.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
+<div align="center"><img src="gpt-image-2-089.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2111,7 +2111,7 @@ exploded view of a camera, golden hour backlight, film grain, analog color scien
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-090.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
+<div align="center"><img src="gpt-image-2-090.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2134,7 +2134,7 @@ three-step recipe card, moody low-key lighting, isometric 3D render look, 4:3 co
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-091.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
+<div align="center"><img src="gpt-image-2-091.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2157,7 +2157,7 @@ timeline infographic, even diffused studio light, isometric 3D render look, 1:1 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-092.jpg" width="600" alt="Timeline Infographic - image 1"></div>
+<div align="center"><img src="gpt-image-2-092.jpg" width="600" alt="Timeline Infographic - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2180,7 +2180,7 @@ scientific cross-section, volumetric fog with rim light, isometric 3D render loo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-093.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
+<div align="center"><img src="gpt-image-2-093.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2203,7 +2203,7 @@ comparison chart with icons, soft window light, top-down flat lay, 4:5 compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-094.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
+<div align="center"><img src="gpt-image-2-094.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2226,7 +2226,7 @@ exploded view of a camera, hard directional key light with subtle fill, top-down
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-095.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
+<div align="center"><img src="gpt-image-2-095.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2249,7 +2249,7 @@ three-step recipe card, golden hour backlight, wide angle, architectural composi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-096.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
+<div align="center"><img src="gpt-image-2-096.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2272,7 +2272,7 @@ timeline infographic, moody low-key lighting, wide angle, architectural composit
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-097.jpg" width="600" alt="Timeline Infographic - image 1"></div>
+<div align="center"><img src="gpt-image-2-097.jpg" width="600" alt="Timeline Infographic - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2295,7 +2295,7 @@ scientific cross-section, even diffused studio light, wide angle, architectural 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-098.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
+<div align="center"><img src="gpt-image-2-098.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2318,7 +2318,7 @@ comparison chart with icons, volumetric fog with rim light, 100mm macro, commerc
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-099.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
+<div align="center"><img src="gpt-image-2-099.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2341,7 +2341,7 @@ exploded view of a camera, soft window light, 100mm macro, commercial product ph
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-100.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
+<div align="center"><img src="gpt-image-2-100.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2364,7 +2364,7 @@ three-step recipe card, hard directional key light with subtle fill, 85mm lens, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-101.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
+<div align="center"><img src="gpt-image-2-101.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2387,7 +2387,7 @@ timeline infographic, golden hour backlight, 85mm lens, shallow depth of field, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-102.jpg" width="600" alt="Timeline Infographic - image 1"></div>
+<div align="center"><img src="gpt-image-2-102.jpg" width="600" alt="Timeline Infographic - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2410,7 +2410,7 @@ scientific cross-section, moody low-key lighting, 85mm lens, shallow depth of fi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-103.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
+<div align="center"><img src="gpt-image-2-103.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2433,7 +2433,7 @@ comparison chart with icons, even diffused studio light, film grain, analog colo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-104.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
+<div align="center"><img src="gpt-image-2-104.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2456,7 +2456,7 @@ exploded view of a camera, volumetric fog with rim light, film grain, analog col
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-105.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
+<div align="center"><img src="gpt-image-2-105.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2479,7 +2479,7 @@ three-step recipe card, soft window light, isometric 3D render look, 4:5 composi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-106.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
+<div align="center"><img src="gpt-image-2-106.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2502,7 +2502,7 @@ timeline infographic, hard directional key light with subtle fill, isometric 3D 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-107.jpg" width="600" alt="Timeline Infographic - image 1"></div>
+<div align="center"><img src="gpt-image-2-107.jpg" width="600" alt="Timeline Infographic - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2525,7 +2525,7 @@ scientific cross-section, golden hour backlight, isometric 3D render look, 16:9 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-108.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
+<div align="center"><img src="gpt-image-2-108.jpg" width="600" alt="Scientific Cross-Section - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2548,7 +2548,7 @@ comparison chart with icons, moody low-key lighting, top-down flat lay, 4:3 comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-109.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
+<div align="center"><img src="gpt-image-2-109.jpg" width="600" alt="Comparison Chart With Icons - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2571,7 +2571,7 @@ exploded view of a camera, even diffused studio light, top-down flat lay, 1:1 co
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-110.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
+<div align="center"><img src="gpt-image-2-110.jpg" width="600" alt="Exploded View Of A Camera - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2594,7 +2594,7 @@ three-step recipe card, volumetric fog with rim light, wide angle, architectural
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-111.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
+<div align="center"><img src="gpt-image-2-111.jpg" width="600" alt="Three-Step Recipe Card - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2617,7 +2617,7 @@ timeline infographic, soft window light, wide angle, architectural composition, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-112.jpg" width="600" alt="Timeline Infographic - image 1"></div>
+<div align="center"><img src="gpt-image-2-112.jpg" width="600" alt="Timeline Infographic - image 1"></div>
 
 **Details**
 - Category: Infographic & Diagram
@@ -2642,7 +2642,7 @@ anime rainy window scene, golden hour backlight, 85mm lens, shallow depth of fie
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-113.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
+<div align="center"><img src="gpt-image-2-113.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2665,7 +2665,7 @@ watercolor botanical study, moody low-key lighting, isometric 3D render look, 1:
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-114.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-114.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2688,7 +2688,7 @@ paper-cut village landscape, even diffused studio light, 100mm macro, commercial
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-115.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
+<div align="center"><img src="gpt-image-2-115.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2711,7 +2711,7 @@ gouache children book spread, volumetric fog with rim light, isometric 3D render
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-116.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-116.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2734,7 +2734,7 @@ retro manga panel, soft window light, 100mm macro, commercial product photograph
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-117.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
+<div align="center"><img src="gpt-image-2-117.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2757,7 +2757,7 @@ anime rainy window scene, hard directional key light with subtle fill, isometric
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-118.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
+<div align="center"><img src="gpt-image-2-118.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2780,7 +2780,7 @@ watercolor botanical study, golden hour backlight, wide angle, architectural com
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-119.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-119.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2803,7 +2803,7 @@ paper-cut village landscape, moody low-key lighting, film grain, analog color sc
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-120.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
+<div align="center"><img src="gpt-image-2-120.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2826,7 +2826,7 @@ gouache children book spread, even diffused studio light, wide angle, architectu
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-121.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-121.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2849,7 +2849,7 @@ retro manga panel, volumetric fog with rim light, film grain, analog color scien
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-122.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
+<div align="center"><img src="gpt-image-2-122.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2872,7 +2872,7 @@ anime rainy window scene, soft window light, wide angle, architectural compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-123.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
+<div align="center"><img src="gpt-image-2-123.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2895,7 +2895,7 @@ watercolor botanical study, hard directional key light with subtle fill, 85mm le
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-124.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-124.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2918,7 +2918,7 @@ paper-cut village landscape, golden hour backlight, top-down flat lay, 4:3 compo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-125.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
+<div align="center"><img src="gpt-image-2-125.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2941,7 +2941,7 @@ gouache children book spread, moody low-key lighting, 85mm lens, shallow depth o
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-126.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-126.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2964,7 +2964,7 @@ retro manga panel, even diffused studio light, top-down flat lay, 3:4 compositio
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-127.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
+<div align="center"><img src="gpt-image-2-127.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -2987,7 +2987,7 @@ anime rainy window scene, volumetric fog with rim light, 85mm lens, shallow dept
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-128.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
+<div align="center"><img src="gpt-image-2-128.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3010,7 +3010,7 @@ watercolor botanical study, soft window light, isometric 3D render look, 2:3 com
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-129.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-129.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3033,7 +3033,7 @@ paper-cut village landscape, hard directional key light with subtle fill, 100mm 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-130.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
+<div align="center"><img src="gpt-image-2-130.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3056,7 +3056,7 @@ gouache children book spread, golden hour backlight, isometric 3D render look, 4
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-131.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-131.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3079,7 +3079,7 @@ retro manga panel, moody low-key lighting, 100mm macro, commercial product photo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-132.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
+<div align="center"><img src="gpt-image-2-132.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3102,7 +3102,7 @@ anime rainy window scene, even diffused studio light, isometric 3D render look, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-133.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
+<div align="center"><img src="gpt-image-2-133.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3125,7 +3125,7 @@ watercolor botanical study, volumetric fog with rim light, wide angle, architect
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-134.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-134.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3148,7 +3148,7 @@ paper-cut village landscape, soft window light, film grain, analog color science
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-135.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
+<div align="center"><img src="gpt-image-2-135.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3171,7 +3171,7 @@ gouache children book spread, hard directional key light with subtle fill, wide 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-136.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-136.jpg" width="600" alt="Gouache Children Book Spread - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3194,7 +3194,7 @@ retro manga panel, golden hour backlight, film grain, analog color science, 4:3 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-137.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
+<div align="center"><img src="gpt-image-2-137.jpg" width="600" alt="Retro Manga Panel - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3217,7 +3217,7 @@ anime rainy window scene, moody low-key lighting, wide angle, architectural comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-138.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
+<div align="center"><img src="gpt-image-2-138.jpg" width="600" alt="Anime Rainy Window Scene - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3240,7 +3240,7 @@ watercolor botanical study, even diffused studio light, 85mm lens, shallow depth
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-139.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-139.jpg" width="600" alt="Watercolor Botanical Study - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3263,7 +3263,7 @@ paper-cut village landscape, volumetric fog with rim light, top-down flat lay, 4
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-140.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
+<div align="center"><img src="gpt-image-2-140.jpg" width="600" alt="Paper-Cut Village Landscape - image 1"></div>
 
 **Details**
 - Category: Anime & Illustration
@@ -3288,7 +3288,7 @@ glass prism still life, hard directional key light with subtle fill, isometric 3
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-141.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
+<div align="center"><img src="gpt-image-2-141.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3311,7 +3311,7 @@ clay character bust, golden hour backlight, top-down flat lay, 1:1 composition, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-142.jpg" width="600" alt="Clay Character Bust - image 1"></div>
+<div align="center"><img src="gpt-image-2-142.jpg" width="600" alt="Clay Character Bust - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3334,7 +3334,7 @@ liquid chrome lettering, moody low-key lighting, top-down flat lay, 3:4 composit
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-143.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
+<div align="center"><img src="gpt-image-2-143.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3357,7 +3357,7 @@ fabric drape study, even diffused studio light, 85mm lens, shallow depth of fiel
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-144.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-144.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3380,7 +3380,7 @@ macro mineral texture, volumetric fog with rim light, film grain, analog color s
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-145.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
+<div align="center"><img src="gpt-image-2-145.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3403,7 +3403,7 @@ glass prism still life, soft window light, wide angle, architectural composition
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-146.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
+<div align="center"><img src="gpt-image-2-146.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3426,7 +3426,7 @@ clay character bust, hard directional key light with subtle fill, 100mm macro, c
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-147.jpg" width="600" alt="Clay Character Bust - image 1"></div>
+<div align="center"><img src="gpt-image-2-147.jpg" width="600" alt="Clay Character Bust - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3449,7 +3449,7 @@ liquid chrome lettering, golden hour backlight, 100mm macro, commercial product 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-148.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
+<div align="center"><img src="gpt-image-2-148.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3472,7 +3472,7 @@ fabric drape study, moody low-key lighting, isometric 3D render look, 3:4 compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-149.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-149.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3495,7 +3495,7 @@ macro mineral texture, even diffused studio light, top-down flat lay, 4:5 compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-150.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
+<div align="center"><img src="gpt-image-2-150.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3518,7 +3518,7 @@ glass prism still life, volumetric fog with rim light, 85mm lens, shallow depth 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-151.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
+<div align="center"><img src="gpt-image-2-151.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3541,7 +3541,7 @@ clay character bust, soft window light, film grain, analog color science, 16:9 c
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-152.jpg" width="600" alt="Clay Character Bust - image 1"></div>
+<div align="center"><img src="gpt-image-2-152.jpg" width="600" alt="Clay Character Bust - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3564,7 +3564,7 @@ liquid chrome lettering, hard directional key light with subtle fill, film grain
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-153.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
+<div align="center"><img src="gpt-image-2-153.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3587,7 +3587,7 @@ fabric drape study, golden hour backlight, wide angle, architectural composition
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-154.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-154.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3610,7 +3610,7 @@ macro mineral texture, moody low-key lighting, 100mm macro, commercial product p
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-155.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
+<div align="center"><img src="gpt-image-2-155.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3633,7 +3633,7 @@ glass prism still life, even diffused studio light, isometric 3D render look, 4:
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-156.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
+<div align="center"><img src="gpt-image-2-156.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3656,7 +3656,7 @@ clay character bust, volumetric fog with rim light, top-down flat lay, 2:3 compo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-157.jpg" width="600" alt="Clay Character Bust - image 1"></div>
+<div align="center"><img src="gpt-image-2-157.jpg" width="600" alt="Clay Character Bust - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3679,7 +3679,7 @@ liquid chrome lettering, soft window light, top-down flat lay, 16:9 composition,
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-158.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
+<div align="center"><img src="gpt-image-2-158.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3702,7 +3702,7 @@ fabric drape study, hard directional key light with subtle fill, 85mm lens, shal
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-159.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-159.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3725,7 +3725,7 @@ macro mineral texture, golden hour backlight, film grain, analog color science, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-160.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
+<div align="center"><img src="gpt-image-2-160.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3748,7 +3748,7 @@ glass prism still life, moody low-key lighting, wide angle, architectural compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-161.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
+<div align="center"><img src="gpt-image-2-161.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3771,7 +3771,7 @@ clay character bust, even diffused studio light, 100mm macro, commercial product
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-162.jpg" width="600" alt="Clay Character Bust - image 1"></div>
+<div align="center"><img src="gpt-image-2-162.jpg" width="600" alt="Clay Character Bust - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3794,7 +3794,7 @@ liquid chrome lettering, volumetric fog with rim light, 100mm macro, commercial 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-163.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
+<div align="center"><img src="gpt-image-2-163.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3817,7 +3817,7 @@ fabric drape study, soft window light, isometric 3D render look, 16:9 compositio
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-164.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
+<div align="center"><img src="gpt-image-2-164.jpg" width="600" alt="Fabric Drape Study - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3840,7 +3840,7 @@ macro mineral texture, hard directional key light with subtle fill, top-down fla
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-165.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
+<div align="center"><img src="gpt-image-2-165.jpg" width="600" alt="Macro Mineral Texture - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3863,7 +3863,7 @@ glass prism still life, golden hour backlight, 85mm lens, shallow depth of field
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-166.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
+<div align="center"><img src="gpt-image-2-166.jpg" width="600" alt="Glass Prism Still Life - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3886,7 +3886,7 @@ clay character bust, moody low-key lighting, film grain, analog color science, 3
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-167.jpg" width="600" alt="Clay Character Bust - image 1"></div>
+<div align="center"><img src="gpt-image-2-167.jpg" width="600" alt="Clay Character Bust - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3909,7 +3909,7 @@ liquid chrome lettering, even diffused studio light, film grain, analog color sc
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-168.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
+<div align="center"><img src="gpt-image-2-168.jpg" width="600" alt="Liquid Chrome Lettering - image 1"></div>
 
 **Details**
 - Category: 3D & Material
@@ -3934,7 +3934,7 @@ overhead ramen bowl, even diffused studio light, 100mm macro, commercial product
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-169.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
+<div align="center"><img src="gpt-image-2-169.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -3957,7 +3957,7 @@ morning coffee table, volumetric fog with rim light, isometric 3D render look, 1
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-170.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
+<div align="center"><img src="gpt-image-2-170.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -3980,7 +3980,7 @@ rustic sourdough loaf, soft window light, 100mm macro, commercial product photog
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-171.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
+<div align="center"><img src="gpt-image-2-171.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4003,7 +4003,7 @@ cocktail on bar counter, hard directional key light with subtle fill, film grain
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-172.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
+<div align="center"><img src="gpt-image-2-172.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4026,7 +4026,7 @@ summer picnic spread, golden hour backlight, isometric 3D render look, 2:3 compo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-173.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-173.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4049,7 +4049,7 @@ overhead ramen bowl, moody low-key lighting, film grain, analog color science, 1
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-174.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
+<div align="center"><img src="gpt-image-2-174.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4072,7 +4072,7 @@ morning coffee table, even diffused studio light, wide angle, architectural comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-175.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
+<div align="center"><img src="gpt-image-2-175.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4095,7 +4095,7 @@ rustic sourdough loaf, volumetric fog with rim light, film grain, analog color s
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-176.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
+<div align="center"><img src="gpt-image-2-176.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4118,7 +4118,7 @@ cocktail on bar counter, soft window light, top-down flat lay, 3:4 composition, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-177.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
+<div align="center"><img src="gpt-image-2-177.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4141,7 +4141,7 @@ summer picnic spread, hard directional key light with subtle fill, wide angle, a
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-178.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-178.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4164,7 +4164,7 @@ overhead ramen bowl, golden hour backlight, top-down flat lay, 2:3 composition, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-179.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
+<div align="center"><img src="gpt-image-2-179.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4187,7 +4187,7 @@ morning coffee table, moody low-key lighting, 85mm lens, shallow depth of field,
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-180.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
+<div align="center"><img src="gpt-image-2-180.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4210,7 +4210,7 @@ rustic sourdough loaf, even diffused studio light, top-down flat lay, 4:3 compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-181.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
+<div align="center"><img src="gpt-image-2-181.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4233,7 +4233,7 @@ cocktail on bar counter, volumetric fog with rim light, 100mm macro, commercial 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-182.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
+<div align="center"><img src="gpt-image-2-182.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4256,7 +4256,7 @@ summer picnic spread, soft window light, 85mm lens, shallow depth of field, 3:4 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-183.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-183.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4279,7 +4279,7 @@ overhead ramen bowl, hard directional key light with subtle fill, 100mm macro, c
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-184.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
+<div align="center"><img src="gpt-image-2-184.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4302,7 +4302,7 @@ morning coffee table, golden hour backlight, isometric 3D render look, 2:3 compo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-185.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
+<div align="center"><img src="gpt-image-2-185.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4325,7 +4325,7 @@ rustic sourdough loaf, moody low-key lighting, 100mm macro, commercial product p
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-186.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
+<div align="center"><img src="gpt-image-2-186.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4348,7 +4348,7 @@ cocktail on bar counter, even diffused studio light, film grain, analog color sc
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-187.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
+<div align="center"><img src="gpt-image-2-187.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4371,7 +4371,7 @@ summer picnic spread, volumetric fog with rim light, isometric 3D render look, 1
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-188.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-188.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4394,7 +4394,7 @@ overhead ramen bowl, soft window light, film grain, analog color science, 3:4 co
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-189.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
+<div align="center"><img src="gpt-image-2-189.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4417,7 +4417,7 @@ morning coffee table, hard directional key light with subtle fill, wide angle, a
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-190.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
+<div align="center"><img src="gpt-image-2-190.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4440,7 +4440,7 @@ rustic sourdough loaf, golden hour backlight, film grain, analog color science, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-191.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
+<div align="center"><img src="gpt-image-2-191.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4463,7 +4463,7 @@ cocktail on bar counter, moody low-key lighting, top-down flat lay, 16:9 composi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-192.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
+<div align="center"><img src="gpt-image-2-192.jpg" width="600" alt="Cocktail On Bar Counter - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4486,7 +4486,7 @@ summer picnic spread, even diffused studio light, wide angle, architectural comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-193.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
+<div align="center"><img src="gpt-image-2-193.jpg" width="600" alt="Summer Picnic Spread - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4509,7 +4509,7 @@ overhead ramen bowl, volumetric fog with rim light, top-down flat lay, 1:1 compo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-194.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
+<div align="center"><img src="gpt-image-2-194.jpg" width="600" alt="Overhead Ramen Bowl - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4532,7 +4532,7 @@ morning coffee table, soft window light, 85mm lens, shallow depth of field, 3:4 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-195.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
+<div align="center"><img src="gpt-image-2-195.jpg" width="600" alt="Morning Coffee Table - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4555,7 +4555,7 @@ rustic sourdough loaf, hard directional key light with subtle fill, top-down fla
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-196.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
+<div align="center"><img src="gpt-image-2-196.jpg" width="600" alt="Rustic Sourdough Loaf - image 1"></div>
 
 **Details**
 - Category: Food & Lifestyle
@@ -4580,7 +4580,7 @@ brutalist atrium, volumetric fog with rim light, isometric 3D render look, 4:3 c
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-197.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
+<div align="center"><img src="gpt-image-2-197.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4603,7 +4603,7 @@ japandi living room, soft window light, top-down flat lay, 1:1 composition, high
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-198.jpg" width="600" alt="Japandi Living Room - image 1"></div>
+<div align="center"><img src="gpt-image-2-198.jpg" width="600" alt="Japandi Living Room - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4626,7 +4626,7 @@ rain-soaked city street, hard directional key light with subtle fill, top-down f
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-199.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
+<div align="center"><img src="gpt-image-2-199.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4649,7 +4649,7 @@ desert pavilion, golden hour backlight, top-down flat lay, 4:5 composition, high
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-200.jpg" width="600" alt="Desert Pavilion - image 1"></div>
+<div align="center"><img src="gpt-image-2-200.jpg" width="600" alt="Desert Pavilion - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4672,7 +4672,7 @@ nordic cabin interior, moody low-key lighting, film grain, analog color science,
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-201.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
+<div align="center"><img src="gpt-image-2-201.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4695,7 +4695,7 @@ brutalist atrium, even diffused studio light, wide angle, architectural composit
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-202.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
+<div align="center"><img src="gpt-image-2-202.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4718,7 +4718,7 @@ japandi living room, volumetric fog with rim light, 100mm macro, commercial prod
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-203.jpg" width="600" alt="Japandi Living Room - image 1"></div>
+<div align="center"><img src="gpt-image-2-203.jpg" width="600" alt="Japandi Living Room - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4741,7 +4741,7 @@ rain-soaked city street, soft window light, 100mm macro, commercial product phot
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-204.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
+<div align="center"><img src="gpt-image-2-204.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4764,7 +4764,7 @@ desert pavilion, hard directional key light with subtle fill, 100mm macro, comme
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-205.jpg" width="600" alt="Desert Pavilion - image 1"></div>
+<div align="center"><img src="gpt-image-2-205.jpg" width="600" alt="Desert Pavilion - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4787,7 +4787,7 @@ nordic cabin interior, golden hour backlight, top-down flat lay, 4:5 composition
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-206.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
+<div align="center"><img src="gpt-image-2-206.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4810,7 +4810,7 @@ brutalist atrium, moody low-key lighting, 85mm lens, shallow depth of field, 2:3
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-207.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
+<div align="center"><img src="gpt-image-2-207.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4833,7 +4833,7 @@ japandi living room, even diffused studio light, film grain, analog color scienc
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-208.jpg" width="600" alt="Japandi Living Room - image 1"></div>
+<div align="center"><img src="gpt-image-2-208.jpg" width="600" alt="Japandi Living Room - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4856,7 +4856,7 @@ rain-soaked city street, volumetric fog with rim light, film grain, analog color
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-209.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
+<div align="center"><img src="gpt-image-2-209.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4879,7 +4879,7 @@ desert pavilion, soft window light, film grain, analog color science, 1:1 compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-210.jpg" width="600" alt="Desert Pavilion - image 1"></div>
+<div align="center"><img src="gpt-image-2-210.jpg" width="600" alt="Desert Pavilion - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4902,7 +4902,7 @@ nordic cabin interior, hard directional key light with subtle fill, 100mm macro,
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-211.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
+<div align="center"><img src="gpt-image-2-211.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4925,7 +4925,7 @@ brutalist atrium, golden hour backlight, isometric 3D render look, 4:5 compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-212.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
+<div align="center"><img src="gpt-image-2-212.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4948,7 +4948,7 @@ japandi living room, moody low-key lighting, top-down flat lay, 2:3 composition,
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-213.jpg" width="600" alt="Japandi Living Room - image 1"></div>
+<div align="center"><img src="gpt-image-2-213.jpg" width="600" alt="Japandi Living Room - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4971,7 +4971,7 @@ rain-soaked city street, even diffused studio light, top-down flat lay, 16:9 com
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-214.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
+<div align="center"><img src="gpt-image-2-214.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -4994,7 +4994,7 @@ desert pavilion, volumetric fog with rim light, top-down flat lay, 4:3 compositi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-215.jpg" width="600" alt="Desert Pavilion - image 1"></div>
+<div align="center"><img src="gpt-image-2-215.jpg" width="600" alt="Desert Pavilion - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5017,7 +5017,7 @@ nordic cabin interior, soft window light, film grain, analog color science, 1:1 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-216.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
+<div align="center"><img src="gpt-image-2-216.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5040,7 +5040,7 @@ brutalist atrium, hard directional key light with subtle fill, wide angle, archi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-217.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
+<div align="center"><img src="gpt-image-2-217.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5063,7 +5063,7 @@ japandi living room, golden hour backlight, 100mm macro, commercial product phot
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-218.jpg" width="600" alt="Japandi Living Room - image 1"></div>
+<div align="center"><img src="gpt-image-2-218.jpg" width="600" alt="Japandi Living Room - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5086,7 +5086,7 @@ rain-soaked city street, moody low-key lighting, 100mm macro, commercial product
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-219.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
+<div align="center"><img src="gpt-image-2-219.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5109,7 +5109,7 @@ desert pavilion, even diffused studio light, 100mm macro, commercial product pho
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-220.jpg" width="600" alt="Desert Pavilion - image 1"></div>
+<div align="center"><img src="gpt-image-2-220.jpg" width="600" alt="Desert Pavilion - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5132,7 +5132,7 @@ nordic cabin interior, volumetric fog with rim light, top-down flat lay, 4:3 com
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-221.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
+<div align="center"><img src="gpt-image-2-221.jpg" width="600" alt="Nordic Cabin Interior - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5155,7 +5155,7 @@ brutalist atrium, soft window light, 85mm lens, shallow depth of field, 1:1 comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-222.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
+<div align="center"><img src="gpt-image-2-222.jpg" width="600" alt="Brutalist Atrium - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5178,7 +5178,7 @@ japandi living room, hard directional key light with subtle fill, film grain, an
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-223.jpg" width="600" alt="Japandi Living Room - image 1"></div>
+<div align="center"><img src="gpt-image-2-223.jpg" width="600" alt="Japandi Living Room - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5201,7 +5201,7 @@ rain-soaked city street, golden hour backlight, film grain, analog color science
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-224.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
+<div align="center"><img src="gpt-image-2-224.jpg" width="600" alt="Rain-Soaked City Street - image 1"></div>
 
 **Details**
 - Category: Architecture & Interior
@@ -5226,7 +5226,7 @@ misty pine forest, soft window light, film grain, analog color science, 4:3 comp
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-225.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
+<div align="center"><img src="gpt-image-2-225.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5249,7 +5249,7 @@ volcanic coastline at dusk, hard directional key light with subtle fill, isometr
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-226.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
+<div align="center"><img src="gpt-image-2-226.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5272,7 +5272,7 @@ alpine lake reflection, golden hour backlight, wide angle, architectural composi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-227.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
+<div align="center"><img src="gpt-image-2-227.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5295,7 +5295,7 @@ sand dune ridges, moody low-key lighting, isometric 3D render look, 4:5 composit
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-228.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
+<div align="center"><img src="gpt-image-2-228.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5318,7 +5318,7 @@ autumn birch grove, even diffused studio light, wide angle, architectural compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-229.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
+<div align="center"><img src="gpt-image-2-229.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5341,7 +5341,7 @@ misty pine forest, volumetric fog with rim light, top-down flat lay, 16:9 compos
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-230.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
+<div align="center"><img src="gpt-image-2-230.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5364,7 +5364,7 @@ volcanic coastline at dusk, soft window light, wide angle, architectural composi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-231.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
+<div align="center"><img src="gpt-image-2-231.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5387,7 +5387,7 @@ alpine lake reflection, hard directional key light with subtle fill, 85mm lens, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-232.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
+<div align="center"><img src="gpt-image-2-232.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5410,7 +5410,7 @@ sand dune ridges, golden hour backlight, wide angle, architectural composition, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-233.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
+<div align="center"><img src="gpt-image-2-233.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5433,7 +5433,7 @@ autumn birch grove, moody low-key lighting, 85mm lens, shallow depth of field, 4
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-234.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
+<div align="center"><img src="gpt-image-2-234.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5456,7 +5456,7 @@ misty pine forest, even diffused studio light, 100mm macro, commercial product p
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-235.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
+<div align="center"><img src="gpt-image-2-235.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5479,7 +5479,7 @@ volcanic coastline at dusk, volumetric fog with rim light, 85mm lens, shallow de
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-236.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
+<div align="center"><img src="gpt-image-2-236.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5502,7 +5502,7 @@ alpine lake reflection, soft window light, isometric 3D render look, 4:3 composi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-237.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
+<div align="center"><img src="gpt-image-2-237.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5525,7 +5525,7 @@ sand dune ridges, hard directional key light with subtle fill, 85mm lens, shallo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-238.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
+<div align="center"><img src="gpt-image-2-238.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5548,7 +5548,7 @@ autumn birch grove, golden hour backlight, isometric 3D render look, 3:4 composi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-239.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
+<div align="center"><img src="gpt-image-2-239.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5571,7 +5571,7 @@ misty pine forest, moody low-key lighting, film grain, analog color science, 4:5
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-240.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
+<div align="center"><img src="gpt-image-2-240.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5594,7 +5594,7 @@ volcanic coastline at dusk, even diffused studio light, isometric 3D render look
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-241.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
+<div align="center"><img src="gpt-image-2-241.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5617,7 +5617,7 @@ alpine lake reflection, volumetric fog with rim light, wide angle, architectural
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-242.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
+<div align="center"><img src="gpt-image-2-242.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5640,7 +5640,7 @@ sand dune ridges, soft window light, isometric 3D render look, 4:3 composition, 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-243.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
+<div align="center"><img src="gpt-image-2-243.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5663,7 +5663,7 @@ autumn birch grove, hard directional key light with subtle fill, wide angle, arc
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-244.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
+<div align="center"><img src="gpt-image-2-244.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5686,7 +5686,7 @@ misty pine forest, golden hour backlight, top-down flat lay, 3:4 composition, hi
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-245.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
+<div align="center"><img src="gpt-image-2-245.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5709,7 +5709,7 @@ volcanic coastline at dusk, moody low-key lighting, wide angle, architectural co
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-246.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
+<div align="center"><img src="gpt-image-2-246.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5732,7 +5732,7 @@ alpine lake reflection, even diffused studio light, 85mm lens, shallow depth of 
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-247.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
+<div align="center"><img src="gpt-image-2-247.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5755,7 +5755,7 @@ sand dune ridges, volumetric fog with rim light, wide angle, architectural compo
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-248.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
+<div align="center"><img src="gpt-image-2-248.jpg" width="600" alt="Sand Dune Ridges - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5778,7 +5778,7 @@ autumn birch grove, soft window light, 85mm lens, shallow depth of field, 4:3 co
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-249.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
+<div align="center"><img src="gpt-image-2-249.jpg" width="600" alt="Autumn Birch Grove - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5801,7 +5801,7 @@ misty pine forest, hard directional key light with subtle fill, 100mm macro, com
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-250.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
+<div align="center"><img src="gpt-image-2-250.jpg" width="600" alt="Misty Pine Forest - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5824,7 +5824,7 @@ volcanic coastline at dusk, golden hour backlight, 85mm lens, shallow depth of f
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-251.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
+<div align="center"><img src="gpt-image-2-251.jpg" width="600" alt="Volcanic Coastline At Dusk - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
@@ -5847,7 +5847,7 @@ alpine lake reflection, moody low-key lighting, isometric 3D render look, 4:5 co
 
 **Generated Images**
 
-<div align="center"><img src="public/images/gpt-image-2-252.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
+<div align="center"><img src="gpt-image-2-252.jpg" width="600" alt="Alpine Lake Reflection - image 1"></div>
 
 **Details**
 - Category: Nature & Landscape
